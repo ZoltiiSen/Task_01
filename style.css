@@ -1,0 +1,9 @@
+html, body, .box{
+  height: 100%;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
